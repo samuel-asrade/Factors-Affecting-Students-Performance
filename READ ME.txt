@@ -1,0 +1,6 @@
+	Title: Factors-Affecting-Students-Performance
+
+
+Data is available here:
+ 
+https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
